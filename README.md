@@ -1,152 +1,115 @@
-# 👋 Hi, I'm Tharusha Navod
+<!--
+  GitHub Profile README — Tharusha Navod
+  Theme: Minimal • Professional • Electric Blue / Neon Cyan
+-->
 
-### Software Developer | Web Development • Software Systems • Digital Solutions
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Software+Developer;Building+Digital+Solutions;Learning+%26+Growing+Every+Day;Code.+Learn.+Build.+Improve." alt="Typing SVG" />
-</p>
+# Tharusha Navod
 
-<p align="center">
+### Software Developer · Digital Solutions · Lifelong Learner
+
+<p>
   <a href="https://github.com/tharuxawaytoh">
-    <img src="https://img.shields.io/badge/GitHub-Tharusha_Navod-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-tharuxawaytoh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <a href="https://www.instagram.com/tharuxawaytoh/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@tharuxawaytoh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.instagram.com/tharuxawaytoh/">
+    <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://wa.me/94776013329" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Contact_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a software developer passionate about building modern applications, practical software solutions, and digital experiences.
-
-- 💻 Interested in software development and modern web technologies.
-- 🚀 Building digital solutions through **MatrixX Software & Systems**.
-- 🌐 Exploring web development, backend systems, and databases.
-- 📱 Interested in mobile applications and business software.
-- 🧠 Continuously learning, experimenting, and improving my skills.
-- 🤝 Open to collaborations, learning opportunities, and exciting projects.
-
----
-
-## 🏢 MatrixX Software & Systems
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MatrixX-Software%20%26%20Systems-0B0B0F?style=for-the-badge&labelColor=14141B" alt="MatrixX Software & Systems"/>
-</p>
-
-<h3 align="center">We Engineer Digital Futures.</h3>
-
-MatrixX Software & Systems focuses on creating modern digital solutions that help businesses grow, work smarter, and embrace technology.
-
-### Our Services
-
-- 🌐 Web Development & Web Applications
-- 📱 Mobile Application Development
-- ⚙️ Custom Software & Systems
-- 🗄️ Database Design & Management
-- 💡 Business-focused Digital Solutions
-
-<p align="center">
-  <a href="https://wa.me/94776013329" target="_blank">
-    <img src="https://img.shields.io/badge/Contact_MatrixX-Chat_on_WhatsApp-2563FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact MatrixX"/>
+  <a href="https://wa.me/94776013329">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Code.+Learn.+Build.+Improve.;Turning+ideas+into+digital+solutions.;Always+learning.+Always+building." alt="A short developer motto" />
+
+</div>
+
 ---
 
-## 🛠️ Technologies & Tools
+## About
 
-### 🌐 Frontend Development
+I'm **Tharusha Navod**, a software development learner and aspiring developer interested in building useful, user-focused digital products. I enjoy exploring web technologies, application development, databases, and practical ways software can solve real problems.
+
+- 🌐 Interested in modern web development and responsive user experiences
+- ⚙️ Exploring software systems, databases, and application logic
+- 📱 Learning about mobile and business-focused applications
+- 🚀 Building ideas and digital solutions with **MatrixX Software & Systems**
+- 📚 Focused on learning through practice, projects, and continuous improvement
+
+## What I'm Working Toward
+
+- Building practical projects that demonstrate my skills
+- Writing cleaner, more maintainable code
+- Strengthening programming and database fundamentals
+- Learning development workflows, Git, and version control
+- Collaborating with developers and learning from the community
+
+## Tech Stack
+
+*Tools and technologies I use or am currently exploring:*
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white" alt="Apache NetBeans" />
 </p>
 
-### 💻 Programming Languages
+## MatrixX Software & Systems
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+<div align="center">
 
-### 🗄️ Databases & Backend
+### We Engineer Digital Futures.
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</p>
+**MatrixX Software & Systems** is my software brand focused on creating modern, practical digital solutions for businesses.
 
-### 📱 Mobile Development
+`Web Applications` · `Mobile Apps` · `Custom Software` · `Database Solutions`
 
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-</p>
+<a href="https://wa.me/94776013329">
+  <img src="https://img.shields.io/badge/Discuss_a_Project-Contact_MatrixX-2563FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Discuss a project with MatrixX" />
+</a>
 
-### 🔧 Development Tools
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="Apache NetBeans"/>
-</p>
+## GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/tharuxawaytoh">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tharuxawaytoh&show_icons=true&hide_border=true&bg_color=0B0B0F&title_color=00E5FF&icon_color=2563FF&text_color=E5E7EB" alt="GitHub stats" />
+</a>
+<a href="https://github.com/tharuxawaytoh">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharuxawaytoh&layout=compact&hide_border=true&bg_color=0B0B0F&title_color=00E5FF&text_color=E5E7EB" alt="Most used languages" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=tharuxawaytoh&hide_border=true&background=0B0B0F&ring=2563FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak" />
+
+</div>
+
+## Let's Connect
+
+I'm open to connecting with other developers, sharing ideas, and exploring collaboration opportunities.
+
+- **GitHub:** [@tharuxawaytoh](https://github.com/tharuxawaytoh)
+- **Instagram:** [@tharuxawaytoh](https://www.instagram.com/tharuxawaytoh/)
+- **WhatsApp:** [Message me](https://wa.me/94776013329)
 
 ---
 
-## 🎯 Current Goals
+<div align="center">
 
-- 📚 Improve my software development skills.
-- 🌐 Build modern, responsive web applications.
-- ⚙️ Strengthen backend programming and database knowledge.
-- 🚀 Develop practical projects through MatrixX Software & Systems.
-- 🔐 Learn more about secure and scalable software architecture.
-- 🤝 Collaborate with other developers and build meaningful products.
+**Code. Learn. Build. Improve.**  
+*Building better skills, one project at a time.*
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tharuxawaytoh&show_icons=true&theme=transparent&hide_border=true&title_color=2563FF&icon_color=00E5FF&text_color=9CA3AF" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharuxawaytoh&layout=compact&theme=transparent&hide_border=true&title_color=2563FF&text_color=9CA3AF" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tharuxawaytoh&theme=transparent&hide_border=true&ring=2563FF&fire=00E5FF&currStreakLabel=2563FF" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/tharuxawaytoh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-  </a>
-  <a href="https://www.instagram.com/tharuxawaytoh/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile"/>
-  </a>
-  <a href="https://wa.me/94776013329" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Let's_Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Contact"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>Tharusha Navod</b>
-  <br/>
-  Software Developer | MatrixX Software & Systems
-  <br/><br/>
-  <i>We Engineer Digital Futures.</i>
-  <br/><br/>
-  <b>Code. Learn. Build. Improve. 🚀</b>
-</p>
+</div>
