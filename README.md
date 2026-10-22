@@ -97,6 +97,18 @@ I'm **Tharusha Navod**, a software development learner and aspiring developer in
 
 </div>
 
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tharuxawaytoh&bg_color=0B0B0F&color=E5E7EB&line=2563FF&point=00E5FF&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
+
+<p><i>Activity is generated from GitHub's public contribution data and updates as new contributions are recorded.</i></p>
+
+</div>
+
+---
+
 ## Let's Connect
 
 I'm open to connecting with other developers, sharing ideas, and exploring collaboration opportunities.
