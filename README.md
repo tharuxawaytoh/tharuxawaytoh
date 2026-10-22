@@ -13,6 +13,9 @@
   <a href="https://github.com/tharuxawaytoh">
     <img src="https://img.shields.io/badge/GitHub-tharuxawaytoh-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
+  <a href="mailto:acmsilva1978915@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
   <a href="https://www.instagram.com/tharuxawaytoh/">
     <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -113,6 +116,7 @@ I'm **Tharusha Navod**, a software development learner and aspiring developer in
 
 I'm open to connecting with other developers, sharing ideas, and exploring collaboration opportunities.
 
+- **Email:** [acmsilva1978915@gmail.com](mailto:acmsilva1978915@gmail.com)
 - **GitHub:** [@tharuxawaytoh](https://github.com/tharuxawaytoh)
 - **Instagram:** [@tharuxawaytoh](https://www.instagram.com/tharuxawaytoh/)
 - **WhatsApp:** [Message me](https://wa.me/94776013329)
